@@ -1,6 +1,6 @@
 # cit281-lab4
 ```
-Fastify, Node Package Manager, MIME types, query parameters
+Purpose: Using Fastify, Node Package Manager, MIME types, query parameters
 ```
 
 Understanding Fastify and utilizing itit to create a Node.js web server. Getting more practice with git, adding git repo, excluding node_modules form git, making commits. Learning about MIME type and how to correct the error. Practice with adding query parameters, testing, and committing. 
